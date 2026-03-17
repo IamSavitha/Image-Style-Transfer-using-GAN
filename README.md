@@ -76,7 +76,7 @@ real_B → F → fake_A → G → rec_B
 
 ---
 
-## ⚙️ Loss Functions
+## Loss Functions
 
 The total generator loss consists of:
 
@@ -223,5 +223,4 @@ python train.py
 ## Author
 
 **Savitha Vijayarangan**  
-**Keith Rajesh Gonslave**# Image-Style-Transfer-using-GAN
-# Image-Style-Transfer-using-GAN
+**Keith Rajesh Gonslave**
