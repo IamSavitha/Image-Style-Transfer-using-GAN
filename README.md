@@ -1,5 +1,8 @@
 # CycleGAN Image Style Transfer 
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
 This project implements a **CycleGAN (Cycle-Consistent Generative Adversarial Network)** from scratch to perform **unpaired image-to-image translation** between Monet paintings and real-world photographs.
 
 ---
